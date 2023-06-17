@@ -1,11 +1,11 @@
-About r-lfactors
-================
+About r-lfactors-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lfactors-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=lfactors
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lfactors-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides an extension to factors called 'lfactor' that are similar to factors but allows users to refer to 'lfactor' levels by either the level or the label.
 
